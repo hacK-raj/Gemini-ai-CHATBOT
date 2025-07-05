@@ -1,7 +1,7 @@
-Gemini AI Chatbot 🤖
+##Gemini AI Chatbot 🤖
 A lightweight, browser-based chatbot powered by Gemini‑like AI, fully implemented in client-side JavaScript.
 
-🧩 Features
+##🧩 Features
 Conversational interaction with AI via an API (Gemini‑inspired)
 
 Simple HTML/CSS/JS setup—no backend needed
@@ -10,7 +10,7 @@ Streamlined UI with index.html, styles in style.css, and logic in script.js
 
 Customizable branding and design
 
-📋 Table of Contents
+##📋 Table of Contents
 Demo
 
 Installation
@@ -27,10 +27,10 @@ Contributing
 
 License
 
-🎥 Demo
+#🎥 Demo
 (Optionally insert a screenshot or link to a hosted demo here.)
 
-🛠️ Installation
+#🛠️ Installation
 Clone this repository:
 
 bash
@@ -42,7 +42,7 @@ Open index.html in a web browser.
 
 Edit the script to integrate your AI API (e.g. Gemini, OpenAI, etc.).
 
-🚀 Usage
+#🚀 Usage
 Type your prompt into the input field.
 
 Press Send (or hit Enter).
@@ -52,7 +52,7 @@ The script sends your message to the configured AI API endpoint.
 AI’s reply is displayed in the chat window.
 
 
-🎨 Customizing UI
+#🎨 Customizing UI
 The UI styles are in style.css. Modify them to adjust:
 
 Chat window layout
@@ -62,7 +62,7 @@ Color scheme
 Fonts & spacing
 
 
-📁 File Structure
+#📁 File Structure
 bash
 Copy
 Edit
@@ -81,6 +81,3 @@ Create a topic branch (git checkout -b feature/xyz)
 Make your changes and commit them
 
 Submit a PR for review
-
-📝 License
-This project is licensed under the MIT License. See LICENSE for details.
